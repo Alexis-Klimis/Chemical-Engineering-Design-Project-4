@@ -7,3 +7,7 @@ Open the jupyter notebook `DCMD_Python_Simulation.ipynb` directly here on GitHub
 `E-901 sheet` shows the technical printout for E-901 obtained from DThermX simulation
 
 `E-903 sheet` shows the technical printout for E-903 obtained from DThermX simulation
+
+The `Brine_pump` folder contains two sheets containing information about the MD-15R pump
+
+The `Permeate_pump` contains a sheet with information about the chosen permeate pump
